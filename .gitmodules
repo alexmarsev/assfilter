@@ -1,0 +1,4 @@
+[submodule "libass"]
+	path = libass/upstream
+	url = https://github.com/grigorig/libass.git
+	branch = fonts
